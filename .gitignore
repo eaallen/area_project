@@ -1,0 +1,12 @@
+
+.DS_Store
+ARBeacon.xcodeproj/xcuserdata/setherickson.xcuserdatad/xcschemes/xcschememanagement.plist
+ARBeacon.xcodeproj/project.xcworkspace/xcuserdata/setherickson.xcuserdatad/UserInterfaceState.xcuserstate
+ARBeacon.xcworkspace/xcuserdata/setherickson.xcuserdatad/UserInterfaceState.xcuserstate
+ARBeacon.xcodeproj/project.pbxproj
+*.xcuserstate
+ARBeacon.xcodeproj
+ARBeacon.xcworkspace
+*.xcworkspace
+*.xcodeproj/
+DerivedData/
